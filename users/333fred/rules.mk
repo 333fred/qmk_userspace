@@ -1,4 +1,4 @@
-SRC += 333fred.c
+INTROSPECTION_KEYMAP_C = 333fred.c
 
 ifeq ($(strip $(RGBLIGHT_ENABLE)), yes)
   SRC += rgb.c
