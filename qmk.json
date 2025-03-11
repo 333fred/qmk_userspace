@@ -4,11 +4,12 @@
         ["flehrad/bigswitch", "333fred"],
         ["handwired/dactyl_manuform/5x6", "333fred"],
         ["handwired/dactyl_manuform/5x6_5", "333fred"],
-        ["input_club/ergodox_infinity", "333fred"]
+        ["input_club/ergodox_infinity", "333fred"],
         ["keebio/iris/rev3", "333fred"],
         ["keebio/nyquist/rev1", "333fred"],
+        ["keebio/nyquist/rev1", "333fred_numpad"],
         ["omkbd/ergodash/rev1", "333fred"],
         ["rgbkb/zen/rev1", "333fred"],
-        ["salicylic_acid3/naked60/rev1", "333fred"],
+        ["salicylic_acid3/naked60/rev1", "333fred"]
     ]
 }
